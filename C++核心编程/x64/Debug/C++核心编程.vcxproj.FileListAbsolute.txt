@@ -1,1 +1,2 @@
 E:\workshop\vs项目\C++核心编程\x64\Debug\C++核心编程.exe
+E:\workshop\vs项目\learning-cpp\C++核心编程\x64\Debug\C++核心编程.exe

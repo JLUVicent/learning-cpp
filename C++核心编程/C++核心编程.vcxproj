@@ -172,6 +172,11 @@
     <ClCompile Include="封装struct和class区别.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="拷贝构造函数调用时机.cpp" />
+    <ClCompile Include="构造函数和析构函数.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="构造函数的分类及调用.cpp" />
     <ClCompile Include="访问权限.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>

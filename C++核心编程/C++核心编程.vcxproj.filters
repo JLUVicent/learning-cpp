@@ -75,5 +75,14 @@
     <ClCompile Include="封装-案例1-设计立方体类.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="构造函数和析构函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="构造函数的分类及调用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="拷贝构造函数调用时机.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
