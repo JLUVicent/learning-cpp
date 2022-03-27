@@ -84,5 +84,17 @@
     <ClCompile Include="拷贝构造函数调用时机.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="构造函数的调用规则.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="深拷贝与浅拷贝.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="初始化列表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="类对象作为类成员.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
