@@ -1,5 +1,6 @@
-﻿  boss.cpp
-  workerManager.cpp
+﻿  workerManager.cpp
+E:\workshop\vs项目\learning-cpp\职工管理系统\workerManager.cpp(340,9): warning C4102: “case1”: 未引用的标签
+E:\workshop\vs项目\learning-cpp\职工管理系统\workerManager.cpp(343,9): warning C4102: “case2”: 未引用的标签
   职工管理系统.cpp
   正在生成代码...
-  职工管理系统.vcxproj -> E:\workshop\vs项目\职工管理系统\x64\Debug\职工管理系统.exe
+  职工管理系统.vcxproj -> E:\workshop\vs项目\learning-cpp\职工管理系统\x64\Debug\职工管理系统.exe
