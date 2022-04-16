@@ -1,3 +1,2 @@
-﻿  string容器子串获取.cpp
-E:\workshop\vs项目\learning-cpp\C++提高编程\string容器子串获取.cpp(20,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+﻿  vector预留空间.cpp
   C++提高编程.vcxproj -> E:\workshop\vs项目\learning-cpp\C++提高编程\x64\Debug\C++提高编程.exe
