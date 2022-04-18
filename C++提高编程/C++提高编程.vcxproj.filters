@@ -135,6 +135,15 @@
     <ClCompile Include="deque排序.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="STL案例1评委打分.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stack容器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="queue常用接口.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="person.hpp">
