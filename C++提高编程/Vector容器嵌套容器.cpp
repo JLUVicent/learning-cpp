@@ -37,7 +37,7 @@ void test01()
 			cout << *vit << " ";
 		cout << endl;
 	}
-
+	//cout << endl;
 
 }
 
