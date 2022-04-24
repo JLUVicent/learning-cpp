@@ -234,6 +234,60 @@
     <ClCompile Include="常用查找算法_find.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="常用查找算法_find_if.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="常用查找算法_adjacent_find.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="常用查找算法_binary_search.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="常用查找算法_count.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="常用查找算法_count_if.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="常用排序算法_sort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="常用排序算法_random_shuff.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="常用排序算法_merge.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="常用排序算法_reverse.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="常用拷贝和替换算法_copy.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="常用拷贝和构造算法_replace.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="常用拷贝和替换算法_replace_if.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="常用拷贝和替换算法_swap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="常用算术生成算法_accumulate.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="常用算术生成算法_fill.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="常用集合算法_set_intersection.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="常用集合算法_set_union.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="常用集合算法_set_difference.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="person.hpp">
